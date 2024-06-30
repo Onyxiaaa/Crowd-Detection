@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/button_1.png</file>
+    <file>assets/button_2.png</file>
+    <file>assets/entry_1.png</file>
+    <file>assets/image_1.png</file>
+    <file>assets/image_2.png</file>
+    <file>assets/image_3.png</file>
+    <file>assets/Image2.png</file>
+    <file>assets/text.png</file>
+  </qresource>
+</RCC>
